@@ -3,7 +3,7 @@
 
 ## Projeto 💻
 
-O dev.finance$ é uma aplicação de controle de finanças. Este é um projeto desenvolvindo durante a Maratona Discover, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** e ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
+O dev.finance$ é uma aplicação de controle de finanças. Este é um projeto desenvolvido durante a Maratona Discover, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** e ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
 
 ## Tecnologias 🛠️
 
