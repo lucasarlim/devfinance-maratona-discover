@@ -1,4 +1,4 @@
-<h1 align="center">Finance Maratona Discover 🚀</h1>
+<h1 align="center">devFinance Maratona Discover 🚀</h1>
 
 <div align="center">
 
