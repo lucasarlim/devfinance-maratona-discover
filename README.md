@@ -10,7 +10,7 @@
 
 ## 💻 About
 
-O dev.finance$ é uma aplicação de controle de finanças. Este é um projeto desenvolvido durante a Maratona Discover, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** e ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
+dev.finance$ is a finance control application. This is a project developed during the Discover Marathon, carried out by @Rocketseat and taught by Mayk Brito during the 14th, 21st, 28th of January and 4th of February.
 
 ## 🚀 Starting
 
